@@ -1,3 +1,3 @@
 # Python Hello World
 
-Basic example for a python application that exposes a hello world REST API.
+Basic example of a python application that exposes a hello world REST API.
